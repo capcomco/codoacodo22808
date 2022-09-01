@@ -3,7 +3,7 @@ ESTE ES EL REPOSITORIO DEL GRUPO 9
 COMISION 22808 REACT - CODO A CODO
 
 Repositorio-primeros ejercicios con git del curso React de Codo a Codo Comisión 22808
-Comandos aplicados:
+Comandos aplicados:<br>
 git clone https://github.com/capcomco/codoacodo22808 (para clonar el repositorio en nuestro pc)
 git status (muestra el estado del directorio en el que nos encontramos, si hay cambios pendientes)
 git add . (añade todos los archivos con cambios, para subirlos posteriormente)
